@@ -1,0 +1,5 @@
+﻿{
+    "bucket_name":  "vijay-cleanup-test-bucket-1756069613",
+    "retention_days":  30,
+    "dry_run":  true
+}
